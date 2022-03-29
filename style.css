@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+}
+.remove {
+  font-size: 2rem;
+  color: blueviolet;
+  font-family: cursive;
+  text-decoration: overline;
+  text-shadow: gray 0 3px;
+  text-transform: capitalize;
+}
+button {
+  background-color: blueviolet;
+  font: size 1.5rem;
+  padding: 0.5em 0.5em;
+
+  border-radius: 10px;
+  color: antiquewhite;
+}
